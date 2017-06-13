@@ -1,3 +1,5 @@
+markdown: redcarpet
+exclude: ['README.md', 'LICENCE.md']
 
 title: CV online
 url: 'http://luisloyola.github.io'
